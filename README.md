@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio de código para a DIO
+# Desafio DIO
+
+Este é um repositório do bootcamp Santander 2022.
